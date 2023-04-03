@@ -1,0 +1,47 @@
+.first, body {
+    background-color: rgb(15,15,15);
+    font-family: 'Tilt Warp', cursive;
+    
+}
+.logo {
+    width: 40px;
+    height: 53px;
+}
+.container {
+    margin: 80px 80px;
+}
+.para1, .para2 {
+    color: white;
+    opacity: 0.8;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    /* font-weight: 600; */
+}
+.para3 {
+    font-size: 97px;
+    line-height: 125px;
+    margin: 50px 80px;
+    letter"'-spacing: -3px;
+     text-align: center; /*no need to put in parent elemment */
+    color: white;
+    opacity: 1;
+    /* font-weight: 630; */
+}
+.para4 {
+    text-align: center; /*no need to put in parent elemment */
+    color: white;
+    opacity: 1;
+    /* font-weight: 630; */
+    padding: 0px;
+    margin :35px;
+
+}
+.btn-1 {
+    transform:scale(1.8);
+    border-radius: 100px;
+    font-weight: 630;
+    padding: 10px 20px;
+    margin-top: 50px;
+
+}
